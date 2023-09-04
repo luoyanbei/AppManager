@@ -1,5 +1,6 @@
 {
     "appname": "BearManager",
     "version": "1.0",
-    "status": "deactive"
+    "status": "deactive",
+    "admob": "1"
 }
