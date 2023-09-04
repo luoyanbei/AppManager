@@ -1,6 +1,13 @@
-{
+[{
     "appname": "BearManager",
     "version": "1.0",
     "status": "deactive",
     "admob": "1"
+},
+{
+    "appname": "BearManager",
+    "version": "1.1",
+    "status": "active",
+    "admob": "1"
 }
+]
