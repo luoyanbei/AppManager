@@ -1,10 +1,5 @@
 {
-  "version":[{
-      "appname": "SaveTikTik",
-      "version": "1.0.0",
-      "status": "ksaoskwjfowe==",
-      "admob": "1"
-  },
+  "version":[
   {
       "appname": "SaveTikTik",
       "version": "1.6.6",
@@ -13,7 +8,7 @@
   },
   {
       "appname": "SaveTikTik",
-      "version": "1.6.7",
+      "version": "1.6.8",
       "status": "tYWN0aXZlKz3EuMC4z",
       "admob": "1"
   }],
