@@ -1,0 +1,16 @@
+{
+  "version":[
+  {
+      "appname": "TikSavevideo",
+      "version": "1.1.6",
+      "status": "tYWN0aXZlKzEuMC4z",
+      "admob": "1"
+  },
+  {
+      "appname": "TikSavevideo",
+      "version": "1.1.8",
+      "status": "tYWN0aXZlKz3EuMC4z",
+      "admob": "1"
+  }],
+  "errorCode": ["30029","13029","10005"]
+}
