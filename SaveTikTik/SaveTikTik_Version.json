@@ -11,6 +11,12 @@
       "version": "1.6.8",
       "status": "tYWN0aXZlKz3EuMC4z",
       "admob": "1"
+  },
+  {
+      "appname": "SaveTikTik",
+      "version": "1.7.0",
+      "status": "tYW3N0aXZlKz3EuMC4z",
+      "admob": "1"
   }],
   "errorCode": ["30029","13029","10005"]
 }
