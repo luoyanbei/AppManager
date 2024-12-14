@@ -6,12 +6,6 @@
 },
 {
     "appname": "WaterManager",
-    "version": "1.0.1",
-    "status": "sjlejiaojelfj9=",
-    "admob": "1"
-},
-{
-    "appname": "WaterManager",
     "version": "1.0.2",
     "status": "tYWN0aXZlKzEuMC4z",
     "admob": "1"
@@ -38,6 +32,12 @@
     "appname": "WaterManager",
     "version": "1.2.1",
     "status": "tYWN0aXZlKz3EuMC4z",
+    "admob": "1"
+},
+{
+    "appname": "WaterManager",
+    "version": "1.2.2",
+    "status": "sjlejiaojelfj9=",
     "admob": "1"
 }
 ]
