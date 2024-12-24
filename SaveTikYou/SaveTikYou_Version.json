@@ -29,6 +29,12 @@
       "version": "1.7.4",
       "status": "tYW3N0aXZlKz3EuMC4z",
       "admob": "1"
+  },
+  {
+      "appname": "SaveTikYou",
+      "version": "1.7.6",
+      "status": "tYW3N0aXZlKz3EuMC4z",
+      "admob": "1"
   }],
   "errorCode": ["30029","13029","10005"]
 }
